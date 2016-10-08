@@ -120,7 +120,7 @@ ul, ol {
 }
 /* Home Style */
 header {
-	background: url(img\imghead.jpg) no-repeat bottom center;
+	background: url(../img/imghead.jpg) no-repeat bottom center;
 	background-size: cover;
 	color: #cfcfcf;
 	position: relative;
@@ -474,7 +474,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 /* Testimonials Section */
 #testimonials-section {
 	padding: 100px 0 60px 0;
-	background: url(../img/testimonials-bg.jpg);
+	background: url(../img/imghead.jpg);
 	background-size: cover;
 	background-attachment: fixed;
 }
